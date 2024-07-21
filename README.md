@@ -1,2 +1,3 @@
-# webcut
-Cut through the web-layer-cake.
+# WebCutter
+
+Cutting through the web-layer-cake.
